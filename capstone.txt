@@ -1,0 +1,12 @@
+I am going to build a dark souls boss display
+you will be able to check all 4 games
+you can search for bosses
+you can get a random boss
+you can sort by if they need to be completeted to beat the game
+
+Stretch 
+will be a 100% tracker to beat the games
+comments for bosses
+
+Stretch Stretch Stretch
+will be login to have seperate trackers and comments under a username
